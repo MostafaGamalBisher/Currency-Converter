@@ -1,3 +1,5 @@
+#A simple currency converter app using tkinter and an external API
+
 import tkinter as tk  #importing the tkinter module for GUI creation
 import requests  #importing the requests module to make API requests
 from dotenv import load_dotenv 
